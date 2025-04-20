@@ -50,17 +50,6 @@
 
 ---
 
-## ☕ Buy Me a Coffee  
-If you like my work, consider supporting me!  
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/gaurvviii">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
----
-
 ## 🌍 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurvi-rana">
