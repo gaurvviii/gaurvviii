@@ -16,6 +16,8 @@
 🔹 AI/ML & Computer Vision enthusiast with a passion for **building intelligent solutions.**  
 🔹 Transitioning into **Full-Stack Development** to create seamless end-to-end applications.  
 🔹 Always learning & exploring new technologies in AI, DevOps, and Web3.  
+🔹 Working with Google Ads and Linkedin Ads
+
 
 ---
 
